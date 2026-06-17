@@ -2,7 +2,8 @@
 
 > Transforming raw retail data into actionable business insights using Python, Pandas, and Power BI.
 
-![Dashboard Preview](C:\Users\HP\OneDrive\Pictures\Screenshots)
+![Dashboard Preview](<img width="866" height="448" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/d1a7e737-2b1b-4e44-a862-b13fb18c19ae" />
+)
 
 ---
 
